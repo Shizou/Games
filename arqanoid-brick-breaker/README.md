@@ -4,3 +4,4 @@ One of my very first projects. Along with some help from my highschool teacher I
 
 Screenshots
 ======================
+![alt tag](https://raw.githubusercontent.com/wgma00/games/master/arqanoid-brick-breaker/screenshots/gameplay.jpg)
