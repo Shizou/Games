@@ -1,9 +1,7 @@
 Bomberman
 =========
-This is the source code for my bomberman game written in 2010.
+One of my very first projects. Here I tried to implement the game bomberman orginally created by Nintendo and derivaties like playing with fire.
 
-Screenshots
-=========
-
-Liscence
-========
+Screenshot
+===========
+![alt tag](https://raw.githubusercontent.com/wgma00/games/master/bomberman/screenshots/gameplay.jpg)
