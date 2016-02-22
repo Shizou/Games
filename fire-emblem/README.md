@@ -11,4 +11,4 @@ Screenshots
 
 ![alt tag](https://raw.githubusercontent.com/wgma00/games/master/fire-emblem/screenshots/instructions.jpg)
 
-![alt tag](https://raw.githubusercontent.com/wgma00/games/master/fire-emblem/screenshots/gameplay.jpg)
+![alt tag](https://github.com/wgma00/games/blob/master/fire-emblem/screenshots/gameplay.jpg)
