@@ -7,4 +7,8 @@ photoshop.
 
 Screenshots
 ===========
-![alt tag]()
+![alt tag](https://raw.githubusercontent.com/wgma00/games/master/fire-emblem/screenshots/mainmenu.jpg)
+
+![alt tag](https://raw.githubusercontent.com/wgma00/games/master/fire-emblem/screenshots/instructions.jpg)
+
+![alt tag](https://raw.githubusercontent.com/wgma00/games/master/fire-emblem/screenshots/gameplay.jpg)
