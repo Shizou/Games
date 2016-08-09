@@ -1,8 +1,22 @@
-/** Name: William Granados
- *  Date: 09/06/14
- *  Purpose: Used as a skeleton for the unit class when a
- *  		 warrior player is to be created
- * */
+
+/* 
+ * Copyright (c) 2014 William Granados<william.granados@wgma00.me>
+ *
+ * This file is part of Anamalous.
+ *
+ * Anamalous is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * Anamalous is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with Anamalous.  If not, see <http://www.gnu.org/licenses/>.
+ */
 public class Warrior extends Unit{
 	
 	/** Creates a unit of type warrior, stats are normal.
